@@ -18,7 +18,7 @@ documentation and Indexes, Skein recording, and behavioral testing.
 ## Documentation & Issues
 
 - The complete Informant documentation is available in the
-[Informant User Manual](https://interactivefiction.github.io/informant/).
+[Informant User Manual](https://opcodeasm.github.io/informant/).
 - Report issues to [Informant Github Issues](https://github.com/opcodeasm/informant/issues).
 
 ## Features and Capabilities
